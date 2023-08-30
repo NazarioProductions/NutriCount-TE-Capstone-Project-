@@ -1,7 +1,4 @@
-# Final Capstone
+# NUTRICOUNT
 ​
-This directory contains all of the starter projects for the final capstone.
-​
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+My team developed a web app for our course project. It helps users track weight and calories. We used an external API for food calories, letting users group items into meals. Users made profiles with avatars and earned stars for daily weight input. I led front-end tasks, designing UI, the logo, and writing JavaScript/CSS/Vue code. My partners added the API and Java-based back-end endpoints. These endpoints managed JSON data in an SQL database, storing user meals, profiles, login details, and daily weight.
 
-Project code will be released once you have provided your high level design.
